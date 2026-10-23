@@ -269,4 +269,4 @@ This repository serves as the official landing page for WPS Office. The software
 **Get the most recent version of WPS Office today!**
 
 ---
-**Last updated:** 2026-10-22 21:59:36 UTC
+**Last updated:** 2026-10-23 00:25:32 UTC
